@@ -17,6 +17,9 @@
     <a href="https://opensource.org/licenses/Apache-2.0">
         <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg">
     </a>
+    <a href="https://app.codspeed.io/AvalancheHQ/rapier?utm_source=badge">
+        <img src="https://img.shields.io/endpoint?url=https://codspeed.io/badge.json" alt="CodSpeed"/>
+    </a>
 </p>
 <p align = "center">
     <strong>
