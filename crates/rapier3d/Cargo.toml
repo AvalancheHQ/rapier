@@ -130,3 +130,8 @@ bincode.workspace = true
 serde_json.workspace = true
 serde = { workspace = true, features = ["std"] }
 oorandom.workspace = true
+divan = { version = "5.0.3", package = "codspeed-divan-compat" }
+
+[[bench]]
+name = "physics3d"
+harness = false
